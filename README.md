@@ -1,6 +1,6 @@
 # GALILEO
 ~ COOPER S. AST
-~ EDITED: 12/16/19
+~ EDITED: 12/17/19
 # Personal repo with trivial tools I find myself using offline
 
 Calcs:
@@ -12,5 +12,6 @@ DNAtools:
 	# Transcription
 	# CDS trimmer
 	# Reverse Compliment
+	# Translation
 
 ** WILL CLEAN UP & ADD EASY EXECUTABLES FOR THESE TWO SOON(ish) **
